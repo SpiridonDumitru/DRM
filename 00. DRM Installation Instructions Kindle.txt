@@ -1,0 +1,18 @@
+Installation
+------------
+1.   Open calibre's Preferences dialog.
+2.   Click on the "Plugins" button.
+3.   Next, click on the button, "Load plugin from file".
+4.   Find the file "DeDRM_plugin.zip".
+5.   Click to select the file and select "Open".
+6.   Click "Yes" in the "Are you sure?" dialog box.
+7.   Click the "OK" button in the "Success" dialog box.
+8.   Open the File Type on the left tab.
+9.   Select the DRM just installed there.
+10.  Click down on Customize Plug-In, and select eInk Kindle ebooks.
+11.  Add eInk Kindle Spiridon Serial Number: B0241604311204LK.
+12.  Add plugin KFX Input.zip file via Plugins Button.
+13.  OK. Save. Close. Restart Calibre.
+14.  Read the original file or convert it in your prefered format.
+15.  Enjoy!
+
